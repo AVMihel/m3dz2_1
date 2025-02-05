@@ -4,11 +4,10 @@ public class Main {
         int price;
         price = 7_635;
         int b = 20;
-        System.out.println("Цена авиабилета:");
-        System.out.println(price);
+        System.out.println("Цена авиабилета: " + price);
+
         int m = price / b;
 
-        System.out.println("Начислено миль:");
-        System.out.println(m);
+        System.out.println("Начислено миль: " + m);
     }
 }
