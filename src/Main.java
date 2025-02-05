@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("БОНУСЫ АВИАПЕРЕВОЗЧИКА");
         int price;
-        price = 13_676;
+        price = 7_635;
         int b = 20;
         System.out.println("Цена авиабилета:");
         System.out.println(price);
