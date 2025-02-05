@@ -5,9 +5,7 @@ public class Main {
         price = 7_635;
         int b = 20;
         System.out.println("Цена авиабилета: " + price);
-
         int m = price / b;
-
         System.out.println("Начислено миль: " + m);
     }
 }
